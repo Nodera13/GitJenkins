@@ -1,0 +1,38 @@
+/usr/local/openjdk-8/jre/../bin/javadoc
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/jenkins/workspace/demo-pipeline_master/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/jenkins/workspace/demo-pipeline_master/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'my-app 1.0.b17d9e7 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/jenkins/workspace/demo-pipeline_master/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'my-app 1.0.b17d9e7 API'
+com.mycompany.app
+/home/jenkins/workspace/demo-pipeline_master/src/main/java = 1597844478261
+/home/jenkins/workspace/demo-pipeline_master/target/apidocs/package-list = 1598274716007
+/home/jenkins/workspace/demo-pipeline_master/target/apidocs/constant-values.html = 1598274716066
+/home/jenkins/workspace/demo-pipeline_master/target/apidocs/overview-tree.html = 1598274716123
+/home/jenkins/workspace/demo-pipeline_master/target/apidocs/index-all.html = 1598274716132
+/home/jenkins/workspace/demo-pipeline_master/target/apidocs/deprecated-list.html = 1598274716139
+/home/jenkins/workspace/demo-pipeline_master/target/apidocs/allclasses-frame.html = 1598274716141
+/home/jenkins/workspace/demo-pipeline_master/target/apidocs/allclasses-noframe.html = 1598274716142
+/home/jenkins/workspace/demo-pipeline_master/target/apidocs/index.html = 1598274716147
+/home/jenkins/workspace/demo-pipeline_master/target/apidocs/help-doc.html = 1598274716157
+/home/jenkins/workspace/demo-pipeline_master/target/apidocs/stylesheet.css = 1598274716161
+/home/jenkins/workspace/demo-pipeline_master/target/apidocs/script.js = 1598274716164
